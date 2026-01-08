@@ -61,7 +61,7 @@
         class="h-40 w-full"
       />
     </div>
-    <div class="mx-32">
+    <div class="mx-32">np
       <ol class="list-decimal pl-5 marker:text-white">
         <div class="bg-[#CBE9E1] mt-8 mb-1 border-r-18 border-r-[#027E7E] border-l-18 border-l-[#027E7E]">
           <li>To promote voluntary trade compliance and customs integrity.</li>
@@ -104,7 +104,7 @@
       is a shared responsibility between Customs, importers, agents, and logistics operators
     </p>
     <div>
-      <h3 class="bg-[#027E7E] mx-44 font-bold text-white text-center">
+      <h3 class="bg-[#027E7E] mx-44 font-bold text-white text-center py-2">
         KEY ELEMENTS OF COMPLIANCE INCLUDE:
       </h3>
     </div>
@@ -306,10 +306,10 @@
   </div>
 
   <div>
-    <div>
-      <h2 id="consequences" class="text-[#027E7E] text-center text-2xl font-bold pt-6">
-        CONSEQUENCES OF NON-COMPLIANCE
-      </h2>
+    <div class="mb-20">
+      <div class="mt-20">
+        <img src="/images/trade_compliance_handbook/page_9.png" alt=" CONSEQUENCES OF NON-COMPLIANCE" class="h-40 w-96">
+      </div>
 
       <div class="flex flex-col gap-6 max-w-3xl mx-auto p-4">
         <div class="flex justify-center gap-6">

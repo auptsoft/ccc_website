@@ -28,6 +28,11 @@ const router = createRouter({
       name: 'tradehandbook',
       component: () => import('../views/TradeHandbook.vue')
     },
+    {
+      path: '/customscommittee',
+      name: 'customscommittee',
+      component: () => import('../views/CustomsCommittee.vue')
+    },
   ],
 })
 

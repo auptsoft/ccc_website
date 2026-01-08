@@ -28,6 +28,12 @@ const router = createRouter({
       name: 'tradehandbook',
       component: () => import('../views/TradeHandbook.vue')
     },
+    {
+      path: '/compliancecommittee',
+      name: 'compliancecommittee',
+      component: () => import('../views/ComplianceCommittee.vue')
+    },
+    
   ],
 })
 

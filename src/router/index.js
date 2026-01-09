@@ -33,6 +33,11 @@ const router = createRouter({
       name: 'compliancecommittee',
       component: () => import('../views/ComplianceCommittee.vue')
     },
+    {
+      path: '/speechpaper',
+      name: 'speechpaper',
+      component: () => import('../views/SpeechPaper.vue')
+    },
     
   ],
 })

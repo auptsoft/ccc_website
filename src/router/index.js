@@ -38,6 +38,11 @@ const router = createRouter({
       name: 'speechpaper',
       component: () => import('../views/SpeechPaper.vue')
     },
+    {
+      path: '/understandnigeria',
+      name: 'understandnigeria',
+      component: () => import('../views/UnderstandNigeria.vue')
+    },
     
   ],
 })

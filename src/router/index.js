@@ -43,6 +43,11 @@ const router = createRouter({
       name: 'understandnigeria',
       component: () => import('../views/UnderstandNigeria.vue')
     },
+    {
+      path: '/portterminal',
+      name: 'portterminal',
+      component: () => import('../views/PortTerminal.vue')
+    },
     
   ],
 })

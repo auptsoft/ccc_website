@@ -3,6 +3,15 @@
 <template>
   <div class="text-xl">
     <div>
+      <div class="flex h-80 w-full mx-auto my-20">
+        <h1 class="pr-8 text-4xl tracking-wider text-center text-[#00A8E8] font-bold py-4">
+          UNDERSTANDING THE NIGERIA CUSTOMS ACT 2023 - BEING THE CUSTOMS CONSULTATIVE COMMITTEE -
+          CCC PUBLIC ENLIGHTENMENT DOCUMENT.
+        </h1>
+        <img src="/images/understand_nigeria_custom/Cover_page.png" alt="">
+      </div>
+    </div>
+    <div>
       <div>
         <h2 class="font-bold text-xl my-6">1.0. AN OVERVIEW OF THE NCS ACT 2023.</h2>
         <p>

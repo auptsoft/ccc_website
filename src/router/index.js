@@ -48,6 +48,11 @@ const router = createRouter({
       name: 'portterminal',
       component: () => import('../views/PortTerminal.vue')
     },
+    {
+      path: '/customsprogram',
+      name: 'customsprogram',
+      component: () => import('../views/CustomsProgram.vue')
+    },
     
   ],
 })

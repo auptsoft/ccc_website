@@ -1,15 +1,18 @@
 <script setup></script>
 
 <template>
-  <div class="my-10">
+  <div class="my-10 container mx-auto">
     <div>
-        <div>
-            <img src="/images/port_terminal/image_1.png" alt="PTML logo" class="h-40 w-96 mx-auto">
-        </div>
-        <h2 class="text-2xl text-green-900 font-bold my-4 text-right">Navigating the Nigerian Customs Service Act 2023:
-Implications for Terminal Operators</h2>
-<p class="text-right text-xl my-4">A Presentation by Ascanio RUSSO, Managing Director, PTML</p>
-<p class="text-right text-xl mb-6">28th May 2024</p>
+      <div>
+        <img src="/images/port_terminal/image_1.png" alt="PTML logo" class="h-40 w-96 mx-auto" />
+      </div>
+      <h2 class="text-2xl text-green-900 font-bold my-4 text-right">
+        Navigating the Nigerian Customs Service Act 2023: Implications for Terminal Operators
+      </h2>
+      <p class="text-right text-xl my-4">
+        A Presentation by Ascanio RUSSO, Managing Director, PTML
+      </p>
+      <p class="text-right text-xl mb-6">28th May 2024</p>
     </div>
     <div>
       <div>
@@ -26,7 +29,9 @@ Implications for Terminal Operators</h2>
           PTML was built in 2006-2008 under the first BOT agreement signed by the Federal Government
           in the Maritime Industry and it's a leading example of successful PPP;
         </p>
-        <p class="mb-1">PTML is the only terminal in Lagos with its own dedicated Customs Command</p>
+        <p class="mb-1">
+          PTML is the only terminal in Lagos with its own dedicated Customs Command
+        </p>
       </div>
     </div>
     <div>
@@ -65,7 +70,9 @@ Implications for Terminal Operators</h2>
           <span class="text-red-600 underline"> in compliance with customs regulations</span>
           <span> and other relevant maritime legislations</span>
         </div>
-        <h2 class="text-xl text-green-900 font-bold my-2">Objectives and responsibilities of port terminal operators</h2>
+        <h2 class="text-xl text-green-900 font-bold my-2">
+          Objectives and responsibilities of port terminal operators
+        </h2>
         <ol class="list-decimal pl-5">
           <li>
             <p class="font-bold">Efficient Cargo Handling</p>
@@ -131,7 +138,9 @@ Implications for Terminal Operators</h2>
             </ul>
           </li>
         </ol>
-        <h2 class="text-xl text-green-900 font-bold my-2">Responsibilities of port terminal operators towards NCS</h2>
+        <h2 class="text-xl text-green-900 font-bold my-2">
+          Responsibilities of port terminal operators towards NCS
+        </h2>
         <p class="mb-1">Compliance with Customs Regulations</p>
         <ol class="list-decimal pl-5">
           <li class="mb-1">
@@ -168,7 +177,9 @@ Implications for Terminal Operators</h2>
             </ul>
           </li>
         </ol>
-        <h3 class="text-xl text-green-900 font-bold my-4">NCSA 2023 - Relevant areas for the Terminal Operators</h3>
+        <h3 class="text-xl text-green-900 font-bold my-4">
+          NCSA 2023 - Relevant areas for the Terminal Operators
+        </h3>
         <h4 class="font-bold mb-2">Customs Service Control</h4>
         <p class="mb-1">
           Art. 30 of the Nigeria Customs Act, 2023, outlines the responsibilities and powers of the
@@ -330,9 +341,7 @@ Implications for Terminal Operators</h2>
       </div>
     </div>
     <div>
-      <h4 class="font-bold my-4">
-        Art. 108 Authorized Economic Operators (AEO)
-      </h4>
+      <h4 class="font-bold my-4">Art. 108 Authorized Economic Operators (AEO)</h4>
       <p class="mb-1">
         The introduction of the AEO is impacting positively on Terminal Operators in different
         areas:
@@ -513,8 +522,8 @@ Implications for Terminal Operators</h2>
       </p>
     </div>
     <div>
-        <img src="/images/port_terminal/image_1.png" alt="PTML logo" class="h-40 w-96 mx-auto">
-        <h2 class="text-5xl text-center my-8">Thank you !</h2>
+      <img src="/images/port_terminal/image_1.png" alt="PTML logo" class="h-40 w-96 mx-auto" />
+      <h2 class="text-5xl text-center my-8">Thank you !</h2>
     </div>
   </div>
 </template>

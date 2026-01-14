@@ -1,8 +1,16 @@
 <script setup></script>
 
 <template>
-  <div>
+  <div class="container mx-auto">
     <div class="my-20">
+      <div>
+        <img src="/images/customs_consultative_commitee/front_page.png" alt=" front page" class="mx-auto">
+      </div>
+      <div class="flex justify-center items-center gap-6 mb-10">
+        <img src="/images/customs_consultative_commitee/flag.png" alt="Nigerian flag" class="w-22"/>
+        <img src="/images/customs_consultative_commitee/nurture.png" alt="Nigeria Customs Service logo" class="w-60"/>
+        <img src="/images/customs_consultative_commitee/award.png" alt=" World Customs Organization Logo" class="w-60"/>
+      </div>
       <div>
         <img
           src="/images/customs_consultative_commitee/chairman_ccc.png"
@@ -65,11 +73,10 @@
             throughout the year and provides a forum to discuss:
           </p>
           <div class="flex justify-around items-center mx-40 mt-10 absolute top-100">
-          <img src="/images/customs_consultative_commitee/step1.png" alt="Step One" />
-          <img src="/images/customs_consultative_commitee/step2.png" alt="Step Two" />
+            <img src="/images/customs_consultative_commitee/step1.png" alt="Step One" />
+            <img src="/images/customs_consultative_commitee/step2.png" alt="Step Two" />
+          </div>
         </div>
-        </div>
-        
       </div>
     </div>
     <div>
@@ -1074,8 +1081,16 @@
     </div>
 
     <div>
-        <img src="/images/customs_consultative_commitee/invite.png" alt="CCC Invitation" class="mx-auto">
-        <img src="/images/customs_consultative_commitee/goodwill.png" alt="Goodwill message" class="mx-auto my-10">
+      <img
+        src="/images/customs_consultative_commitee/invite.png"
+        alt="CCC Invitation"
+        class="mx-auto"
+      />
+      <img
+        src="/images/customs_consultative_commitee/goodwill.png"
+        alt="Goodwill message"
+        class="mx-auto my-10"
+      />
     </div>
   </div>
 </template>

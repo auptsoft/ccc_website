@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div class="text-xl">
+  <div class="text-xl container mx-auto">
     <div>
       <div class="flex h-80 w-full mx-auto my-20">
         <h1 class="pr-8 text-4xl tracking-wider text-center text-[#00A8E8] font-bold py-4">
@@ -503,10 +503,10 @@
         </p>
       </div>
     </div>
-    <div>
-      <p>Thank you.</p>
-      <p>Fwdr Eugene Nweke Rff</p>
-      <p>Secretary, Customs Consultative Committee CCC.</p>
+    <div class="text-center font-bold my-10">
+      <p class="text-red-600 mb-6 text-3xl">Thank you.</p>
+      <p class="text-[#40C2F6] text-4xl mb-4">Fwdr Eugene Nweke Rff</p>
+      <p class="text-3xl">Secretary, Customs Consultative Committee CCC.</p>
     </div>
   </div>
 </template>

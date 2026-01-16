@@ -10,12 +10,22 @@
           class="mx-auto"
         />
       </div>
-      <div class="mb-80 mt-10 h-40">
+      <div class="mb-96 mt-10 h-40">
         <img
           src="/images/trade_compliance_handbook/front_2.png"
           alt="Inner cover page"
           class="mx-auto"
         />
+      </div>
+    </div>
+    <div class="mb-30 mt-40 relative">
+      <div class=" bg-[#027E7E] pt-10 pb-6 pr-8 pl-30 text-white font-bold">
+        <p class="text-xl">TRADE COMPLIANCE</p>
+        <p class="text-3xl">HANDBOOK</p>
+        <p>(Doing Trade the Right Way)</p>
+      </div>
+      <div class="absolute right-25 top-15">
+        <img src="/images/trade_compliance_handbook/All.png" alt="" class="h-40 w-40 rounded-full border-4 border-[#027E7E]">
       </div>
     </div>
     <div>
@@ -71,7 +81,7 @@
     </div>
 
     <div>
-      <div class="mx-40">
+      <div class="mx-40" id="objective">
         <img
           src="/images/trade_compliance_handbook/page_3.png"
           alt="Objective of the Handbook"
@@ -115,7 +125,7 @@
         </ol>
       </div>
     </div>
-    <div class="pt-10">
+    <div class="pt-10" id="understanding">
       <div class="flex justify-center">
         <h2
           class="bg-[#027E7E] text-white text-center mx-10 text-2xl py-2 px-4 max-w-md rounded-2xl font-bold"
@@ -166,7 +176,7 @@
     </div>
 
     <div>
-      <div>
+      <div id="flash-points">
         <h2 id="flash-points" class="text-[#027E7E] font-bold text-left text-2xl max-w-72">
           THE 10 COMPLIANCE FLASH POINTS
         </h2>
@@ -283,7 +293,7 @@
     </div>
 
     <div>
-      <div>
+      <div id="self-check">
         <h3 class="text-[#027E7E] text-2xl font-bold py-6">“COMPLIANCE SELF-CHECK” CHECKLIST.</h3>
         <p class="text-[#027E7E] pb-2 font-bold">
           The following compliance self check aka "Checklist"
@@ -339,7 +349,7 @@
     </div>
 
     <div>
-      <div class="mb-20">
+      <div class="mb-20" id="consequences">
         <div class="mt-20">
           <img
             src="/images/trade_compliance_handbook/page_9.png"
@@ -383,7 +393,7 @@
     </div>
 
     <div>
-      <div class="my-10">
+      <div class="my-10" id="benefits">
         <div class="flex items-center justify-center mt-6">
           <img
             src="/images/trade_compliance_handbook/page_10.png"
@@ -433,7 +443,7 @@
     </div>
 
     <div>
-      <div>
+      <div id="support">
         <div class="flex justify-center pt-10 pb-4">
           <img
             src="/images/trade_compliance_handbook/ccc.png"
@@ -477,12 +487,12 @@
     </div>
 
     <div>
-      <div class="pt-6">
+      <div class="pt-6" id="understand-custom">
         <h3 id="customs" class="font-bold text-center text-white bg-[#027E7E] mx-30">
           UNDERSTANDING THE NIGERIA CUSTOMS ACT 2023 - BEING THE CUSTOMS CONSULTATIVE COMMITTEE -
           CCC PUBLIC ENLIGHTENMENT DOCUMENT.
         </h3>
-        <h3 class="font-bold py-3">1.0. AN OVERVIEW OF THE NCS ACT 2023.</h3>
+        <h3 class="font-bold py-3" id="overview">1.0. AN OVERVIEW OF THE NCS ACT 2023.</h3>
         <p class="py-3">
           The Nigeria Customs Service Act 2023 is a legislation that governs the operations of the
           Nigerian Customs Service, focusing on trade facilitation, revenue collection, and border
@@ -541,7 +551,7 @@
           - It will also promote a safe environment for innovation and creativity, while ensuring
           compliance with international best practices.
         </p>
-        <h3 class="font-bold py-3">2.0. NCS ACT SUMMARY OF SCOPES.</h3>
+        <h3 class="font-bold py-3" id="scope">2.0. NCS ACT SUMMARY OF SCOPES.</h3>
         <p>The Nigeria Customs Service Act 2023 has the following scope:</p>
         <p>- Total Parts: 33 parts</p>
         <p>- Total Sections: 282 sections</p>
@@ -602,7 +612,7 @@
           >
         </div>
         <div class="py-3">
-          <h3 class="font-bold">3.0. OVERVIEW OF THE ACT STRUCTURE AND FOCUS:</h3>
+          <h3 class="font-bold" id="overview">3.0. OVERVIEW OF THE ACT STRUCTURE AND FOCUS:</h3>
           <p>
             The Nigeria Customs Service Act 2023 is divided into 33 parts, consisting of 282
             sections. Below is an overview of the Act's structure and focus
@@ -673,7 +683,7 @@
           <span class="font-bold">- Seal and Authentication:</span>
           <span>Affixing the seal, authentication, and execution of documents.</span>
         </div>
-        <h3 class="font-bold pb-2 pt-4">
+        <h3 class="font-bold pb-2 pt-4" id="highlight">
           4.0. HIGHLIGHT OF NCS ACT 2023 REGULATORY PROVISIONS IN RELATION TO SMUGGLING.
         </h3>
         <div class="pb-3">
@@ -732,7 +742,7 @@
           enforce customs regulations, the Act aims to promote legitimate trade and commerce while
           safeguarding the nation's borders..
         </p>
-        <h3 class="font-bold">
+        <h3 class="font-bold" id="power">
           5.0. THE POWERS OF A CUSTOMS OFFICERS (A COMPARISON OF CEMA SECTIONS AND NCS ACT 2023
           SECTIONS).
         </h3>
@@ -829,7 +839,7 @@
             goods.</span
           >
         </div>
-        <h3 class="font-bold py-2">6.0. OTHER POWERS OF CUSTOMS OFFICERS:</h3>
+        <h3 class="font-bold py-2" id="other">6.0. OTHER POWERS OF CUSTOMS OFFICERS:</h3>
         <p>
           - General Powers: Customs officers have the power to administer, manage, and enforce the
           provisions of the Act and other customs and excise laws.
@@ -848,7 +858,7 @@
             intellectual property rights or are being smuggled into the country (Section 168).</span
           >
         </div>
-        <h3 class="font-bold py-2">7.0. PENALTIES FOR SMUGGLING:</h3>
+        <h3 class="font-bold py-2" id="penalties">7.0. PENALTIES FOR SMUGGLING:</h3>
         <p>
           The Act outlines penalties for individuals involved in smuggling, including imprisonment
           and forfeiture of smuggled items, this includes:
@@ -889,7 +899,7 @@
           - Penalty for obstructing or resisting customs officers in the performance of their
           duties.
         </p>
-        <h3 class="font-bold py-2">8.0. CONCLUSION.</h3>
+        <h3 class="font-bold py-2" id="conclusion">8.0. CONCLUSION.</h3>
         <p>
           This lecture is a mere and simplified accedmiic efforts for public enlightenment and
           campaign purposes.
@@ -927,7 +937,9 @@
       />
       <div class="absolute inset-0 bg-teal-700/80"></div>
       <div class="absolute inset-0 z-10 p-6 text-white text-left mx-60 top-40">
-        <p class="mb-2">Published by: The Customs Consultative Committee (CCC) Secretariat Abuja, Nigeria.</p>
+        <p class="mb-2">
+          Published by: The Customs Consultative Committee (CCC) Secretariat Abuja, Nigeria.
+        </p>
         <p class="mb-2">
           In Collaboration With: Nigeria Customs Service (NCS) CRFFN Shippers Council FIATA Regional
           Network

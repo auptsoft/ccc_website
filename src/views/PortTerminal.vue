@@ -15,7 +15,7 @@
       <p class="text-right text-xl mb-6">28th May 2024</p>
     </div>
     <div>
-      <div>
+      <div id="introduction">
         <p class="mb-1">
           Ports & Terminal Multiservices Ltd (PTML) is a subsidiary of the Grimaldi Group, a
           multinational logistics company and the world's leading operator in the maritime transport
@@ -39,7 +39,7 @@
       <img src="/images/port_terminal/image_2.png" alt="" />
     </div>
     <div>
-      <div>
+      <div id="provision">
         <h2 class="text-3xl text-green-900 font-bold my-4">Key Provisions of the Act</h2>
         <p class="mb-1">
           The core objectives of the Nigeria Customs Service Act 2023 are to reform and modernize
@@ -60,7 +60,7 @@
           <li>Regulation and Handling of overtime cargo (art. 60 and art. 119)</li>
           <li>Introduction of the Authorized Economic Operators (art. 108)</li>
         </ul>
-        <h2 class="text-3xl text-green-900 font-bold my-6">What Terminal Operators want?</h2>
+        <h2 class="text-3xl text-green-900 font-bold my-6" id="terminal">What Terminal Operators want?</h2>
         <div>
           <span
             >The main goal of a port terminal operator is to minimize disruptions and delays for all
@@ -70,7 +70,7 @@
           <span class="text-red-600 underline"> in compliance with customs regulations</span>
           <span> and other relevant maritime legislations</span>
         </div>
-        <h2 class="text-xl text-green-900 font-bold my-2">
+        <h2 class="text-xl text-green-900 font-bold my-2" id="objective">
           Objectives and responsibilities of port terminal operators
         </h2>
         <ol class="list-decimal pl-5">
@@ -138,7 +138,7 @@
             </ul>
           </li>
         </ol>
-        <h2 class="text-xl text-green-900 font-bold my-2">
+        <h2 class="text-xl text-green-900 font-bold my-2" id="responsibility">
           Responsibilities of port terminal operators towards NCS
         </h2>
         <p class="mb-1">Compliance with Customs Regulations</p>
@@ -177,7 +177,7 @@
             </ul>
           </li>
         </ol>
-        <h3 class="text-xl text-green-900 font-bold my-4">
+        <h3 class="text-xl text-green-900 font-bold my-4" id="relevant">
           NCSA 2023 - Relevant areas for the Terminal Operators
         </h3>
         <h4 class="font-bold mb-2">Customs Service Control</h4>
@@ -455,7 +455,7 @@
         </li>
       </ol>
     </div>
-    <div>
+    <div id="conclusion">
       <h4 class="text-xl text-green-900 font-bold my-4">NCSA 2023 - Conclusion</h4>
       <p class="mb-1">
         The Nigeria Customs Service Act 2023 introduces several key provisions that enhance the

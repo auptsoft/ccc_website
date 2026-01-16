@@ -4,12 +4,28 @@
   <div class="container mx-auto">
     <div class="my-20">
       <div>
-        <img src="/images/customs_consultative_commitee/front_page.png" alt=" front page" class="mx-auto">
+        <img
+          src="/images/customs_consultative_commitee/front_page.png"
+          alt=" front page"
+          class="mx-auto"
+        />
       </div>
       <div class="flex justify-center items-center gap-6 mb-10">
-        <img src="/images/customs_consultative_commitee/flag.png" alt="Nigerian flag" class="w-22"/>
-        <img src="/images/customs_consultative_commitee/nurture.png" alt="Nigeria Customs Service logo" class="w-60"/>
-        <img src="/images/customs_consultative_commitee/award.png" alt=" World Customs Organization Logo" class="w-60"/>
+        <img
+          src="/images/customs_consultative_commitee/flag.png"
+          alt="Nigerian flag"
+          class="w-22"
+        />
+        <img
+          src="/images/customs_consultative_commitee/nurture.png"
+          alt="Nigeria Customs Service logo"
+          class="w-60"
+        />
+        <img
+          src="/images/customs_consultative_commitee/award.png"
+          alt=" World Customs Organization Logo"
+          class="w-60"
+        />
       </div>
       <div>
         <img
@@ -28,6 +44,12 @@
     </div>
 
     <div>
+      <div class="flex w-full h-30 bg-[#027E7E] relative">
+        <p class="text-white text-2xl font-bold pl-20 pt-10">Customs Consultative Committee (CCC)</p>
+        <img src="/images/customs_consultative_commitee/page_2.png" alt="" class="w-1/2 h-30 absolute right-0"/>
+      </div>
+    </div>
+    <div id="about">
       <div class="mt-20">
         <img
           src="/images/customs_consultative_commitee/about.png"
@@ -64,7 +86,10 @@
         <div
           class="bg-[url('/images/customs_consultative_commitee/page_3.png')] bg-no-repeat bg-cover h-screen relative drop-shadow-2xl shadow-white"
         >
-          <h2 class="text-[#027E7E] text-6xl text-right absolute top-50 right-26 tracking-wider">
+          <h2
+            class="text-[#027E7E] text-6xl text-right absolute top-50 right-26 tracking-wider"
+            id="overview"
+          >
             AN OVERVIEW
           </h2>
           <p class="font-bold my-6 mx-20 text-xl absolute top-64 tracking-wider">
@@ -297,7 +322,7 @@
     </div>
 
     <div>
-      <div>
+      <div id="rules">
         <h3
           class="font-bold text-xl bg-[#027E7E] mt-10 mb-4 py-2 text-center text-white mx-52 border-2"
         >
@@ -577,7 +602,7 @@
       </div>
     </div>
     <div>
-      <div>
+      <div id="clarification">
         <div>
           <img
             src="/images/customs_consultative_commitee/clarification.png"
@@ -841,7 +866,7 @@
       </div>
     </div>
     <div>
-      <div>
+      <div id="ccc-facts">
         <h3
           class="font-bold text-xl bg-[#027E7E] mt-10 mb-4 py-2 text-center text-white mx-48 border-4"
         >

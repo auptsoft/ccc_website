@@ -8,17 +8,18 @@
           UNDERSTANDING THE NIGERIA CUSTOMS ACT 2023 - BEING THE CUSTOMS CONSULTATIVE COMMITTEE -
           CCC PUBLIC ENLIGHTENMENT DOCUMENT.
         </h1>
-        <img src="/images/understand_nigeria_custom/Cover_page.png" alt="">
+        <img src="/images/understand_nigeria_custom/Cover_page.png" alt="" />
       </div>
     </div>
     <div>
-      <div>
+      <div id="overview">
         <h2 class="font-bold text-xl my-6">1.0. AN OVERVIEW OF THE NCS ACT 2023.</h2>
         <p>
           The Nigeria Customs Service Act 2023 is a legislation that governs the operations of the
           Nigerian Customs Service, focusing on trade facilitation, revenue collection, and border
           security. Here are some key aspects of the Act:
         </p>
+        <img src="/images/understand_nigeria_custom/img_1.png" alt="" class="my-10"/>
       </div>
     </div>
     <div>
@@ -87,8 +88,9 @@
       </div>
     </div>
     <div>
-      <div>
+      <div id="summary">
         <h2 class="font-bold text-xl">2.0. NCS ACT SUMMARY OF SCOPES.</h2>
+        <img src="/images/understand_nigeria_custom/img_2.png" alt="" class="my-10"/>
         <p class="text-red-600 font-bold">
           The Nigeria Customs Service Act 2023 has the following scope:
         </p>
@@ -158,8 +160,9 @@
       </div>
     </div>
     <div>
-      <div>
+      <div id="structure">
         <h2 class="text-xl font-bold">3.0. OVERVIEW OF THE ACT STRUCTURE AND FOCUS:</h2>
+        <img src="/images/understand_nigeria_custom/img_3.png" alt="" class="my-10"/>
         <p>
           The Nigeria Customs Service Act 2023 is divided into 33 parts, consisting of 282 sections.
           Below is an overview of the Act's structure and focus:
@@ -252,10 +255,11 @@
       </div>
     </div>
     <div>
-      <div>
+      <div id="highlight">
         <h2 class="font-bold text-xl">
           4.0. HIGHLIGHT OF NCS ACT 2023 REGULATORY PROVISIONS IN RELATION TO SMUGGLING.
         </h2>
+        <img src="/images/understand_nigeria_custom/img_1.png" alt="" class="my-10"/>
         <p class="font-bold text-red-600">
           4.1. Definition Of Smuggling: From the view point of the Customs definition, smuggling can
           be viewed from six headings, which are:
@@ -318,11 +322,12 @@
       </div>
     </div>
     <div>
-      <div>
+      <div id="powers">
         <h2 class="font-bold text-xl">
           5.0. THE POWERS OF A CUSTOMS OFFICERS (A COMPARISON OF CEMA SECTIONS AND NCS ACT 2023
           SECTIONS).
         </h2>
+         <img src="/images/understand_nigeria_custom/Cover_page.png" alt="" class="my-10">
         <p>
           The Nigeria Customs Service Act 2023 has provisions similar to the old CEMA sections.
           Below are relevant sections dwelling on the powers of an officer:
@@ -417,7 +422,7 @@
             goods.</span
           >
         </div>
-        <h2 class="font-bold text-xl">6.0. OTHER POWERS OF CUSTOMS OFFICERS:</h2>
+        <h2 class="font-bold text-xl" id="other">6.0. OTHER POWERS OF CUSTOMS OFFICERS:</h2>
         <div>
           <span class="font-bold text-red-600">-*General Powers*: </span>
           <span
@@ -442,7 +447,7 @@
       </div>
     </div>
     <div>
-      <div>
+      <div id="penalties">
         <h2 class="font-bold text-xl">7.0. PENALTIES FOR SMUGGLING:</h2>
         <p class="font-bold text-red-600">
           The Act outlines penalties for individuals involved in smuggling, including imprisonment
@@ -487,7 +492,7 @@
       </div>
     </div>
     <div>
-      <div>
+      <div id="conclusion">
         <h2 class="font-bold text-xl">8.0. CONCLUSION.</h2>
         <p>
           This lecture is a mere and simplified accedmic efforts for public enlightenment and

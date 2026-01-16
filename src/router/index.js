@@ -17,6 +17,43 @@ const router = createRouter({
       // which is lazy-loaded when the route is visited.
       component: () => import('../views/AboutView.vue'),
     },
+    {
+      path: '/contact',
+      name: 'contact',
+      component: () => import('../views/ContactView.vue')
+    },
+
+    {
+      path: '/tradehandbook',
+      name: 'tradehandbook',
+      component: () => import('../views/TradeHandbook.vue')
+    },
+    {
+      path: '/compliancecommittee',
+      name: 'compliancecommittee',
+      component: () => import('../views/ComplianceCommittee.vue')
+    },
+    {
+      path: '/speechpaper',
+      name: 'speechpaper',
+      component: () => import('../views/SpeechPaper.vue')
+    },
+    {
+      path: '/understandnigeria',
+      name: 'understandnigeria',
+      component: () => import('../views/UnderstandNigeria.vue')
+    },
+    {
+      path: '/portterminal',
+      name: 'portterminal',
+      component: () => import('../views/PortTerminal.vue')
+    },
+    {
+      path: '/customsprogram',
+      name: 'customsprogram',
+      component: () => import('../views/CustomsProgram.vue')
+    },
+    
   ],
 })
 

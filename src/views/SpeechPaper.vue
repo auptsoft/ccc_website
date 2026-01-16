@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <div>
+  <div class="container mx-auto">
     <div>
       <div class="text-xl">
         <h2 class="text-2xl my-10">

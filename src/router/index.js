@@ -29,10 +29,31 @@ const router = createRouter({
       component: () => import('../views/TradeHandbook.vue')
     },
     {
-      path: '/customscommittee',
-      name: 'customscommittee',
-      component: () => import('../views/CustomsCommittee.vue')
+      path: '/compliancecommittee',
+      name: 'compliancecommittee',
+      component: () => import('../views/ComplianceCommittee.vue')
     },
+    {
+      path: '/speechpaper',
+      name: 'speechpaper',
+      component: () => import('../views/SpeechPaper.vue')
+    },
+    {
+      path: '/understandnigeria',
+      name: 'understandnigeria',
+      component: () => import('../views/UnderstandNigeria.vue')
+    },
+    {
+      path: '/portterminal',
+      name: 'portterminal',
+      component: () => import('../views/PortTerminal.vue')
+    },
+    {
+      path: '/customsprogram',
+      name: 'customsprogram',
+      component: () => import('../views/CustomsProgram.vue')
+    },
+    
   ],
 })
 

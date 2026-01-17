@@ -9,7 +9,7 @@
           ENTERPRISE [CPPE] AT THE CUSTOMS CONSULTATIVE COMMITTEE'S OPEN TRADE ROUND TABLE HELD ON
           TUESDAY 28TH MAY 2024 AT THE CONTINENTAL HOTEL IKOYI LAGOS
         </h2>
-        <h4 class="font-bold mb-4">Protocols</h4>
+        <h4 class="font-bold mb-4" id="protocols">Protocols</h4>
         <p>
           First let me begin by commending the leadership of the Customs Consultative Committee
           [CCC] for organizing this Quarterly Open Trade Roundtable. Distinguished ladies and
@@ -65,7 +65,7 @@
             familiarized with the Nigeria Customs Service Act 2023.</span
           >
         </div>
-        <h4 class="mb-4 font-bold">Some Historical Perspective</h4>
+        <h4 class="mb-4 font-bold" id="history">Some Historical Perspective</h4>
         <p class="mb-4">
           I would like to commend all those who contributed to the making the Nigeria Customs
           Service Act 2023, a reality - President Buhari, Leadership of the 9th National Assembly,
@@ -95,7 +95,7 @@
         <p class="mb-4">
           Meanwhile, please permit to identify and comment on a few of the sections of the new law.
         </p>
-        <h4 class="font-bold mt-10 mb-4">Rule of Origin</h4>
+        <h4 class="font-bold mt-10 mb-4" id="rule">Rule of Origin</h4>
         <p class="mb-4">
           Section 78 - 82 has comprehensive provisions to guide the rule of origin as it relates to
           international trade , especially where there are preferential benefits rooted in
@@ -158,7 +158,7 @@
           resource base would position the service to deliver more effectively on its mandate of
           revenue generation, trade facilitation and border security.
         </p>
-        <h3 class="mb-4 mt-10 font-bold">CUSTOMS DUTY EXCHANGE RATE</h3>
+        <h3 class="mb-4 mt-10 font-bold" id="custom">CUSTOMS DUTY EXCHANGE RATE</h3>
         <p>Section 67 [a] [iii]</p>
         <p class="mb-4">
           This section states that when lodging a declaration, under the provision of this act,

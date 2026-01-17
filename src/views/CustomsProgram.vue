@@ -11,6 +11,20 @@
         />
       </div>
       <div>
+        <div class="flex gap-3 items-center justify-center my-40">
+          <img
+            src="/images/custom_consultative_prog/nurture.png"
+            alt="logo of nigerian customs service" class="h-40 w-40"
+          />
+          <img
+            src="/images/custom_consultative_prog/award.png"
+            alt="logo of world customs organization" class="h-40 w-40"
+          />
+          <p class="text-[#027E7E] text-2xl font-bold w-96 h-40">THE CUSTOMS CONSULTATIVE COMMITTEE (CCC)</p>
+        </div>
+      </div>
+
+      <div>
         <div class="mb-40">
           <img
             src="/images/custom_consultative_prog/bola_ahmed_tinubu.png"
@@ -231,7 +245,7 @@
     </div>
 
     <div>
-      <div class="mt-60">
+      <div class="mt-60" id="program">
         <h2 class="text-[#027E7E] text-center font-bold text-xl my-4">
           THE CCC OTRT ORDER OF PROGRAM:
         </h2>
@@ -279,7 +293,7 @@
       </div>
     </div>
     <div>
-      <div>
+      <div id="about">
         <h2 class="text-[#027E7E] text-2xl font-bold text-center my-6">
           ABOUT THE CUSTOMS CONSULTATIVE COMMITTEE OTRT
         </h2>
@@ -356,10 +370,17 @@
         <p class="mb-2">Thank You for your attention.</p>
         <p class="mb-2">Fwdr Eugene Nweke Rff</p>
         <p class="mb-2">Secretary- CCC.</p>
+        <div>
+          <img
+            src="/images/custom_consultative_prog/page_10.png"
+            alt="image of shipping goods"
+            class="mx-auto mb-20"
+          />
+        </div>
       </div>
     </div>
     <div>
-      <div>
+      <div id="welcome">
         <h2 class="text-[#027E7E] font-bold text-center text-3xl my-4">
           CCC CHAIRMAN'S Welcome Address
         </h2>
@@ -454,7 +475,7 @@
       </div>
     </div>
     <div>
-      <div>
+      <div id="marine">
         <h1 class="text-center text-2xl">MEANING OF</h1>
         <h1 class="text-center text-2xl font-bold">MARINE BLUE ECONOMY.</h1>
         <p class="mt-6">
@@ -597,7 +618,7 @@
             <img
               src="/images/custom_consultative_prog/fauna.png"
               alt="image of Sea bed fauna and flore"
-              class="border-6 border-[#027E7E] w-80 h-50" 
+              class="border-6 border-[#027E7E] w-80 h-50"
             />
             <p class="text-[#027E7E] font-bold text-center">
               MBE = Discovering Seabed Fauna and Flora, for health and economic objectives.
